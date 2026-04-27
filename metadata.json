@@ -1,0 +1,6 @@
+{
+  "name": "IPC Visualizer",
+  "description": "An interactive guide to Inter-Process Communication using an Instagram Story analogy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
